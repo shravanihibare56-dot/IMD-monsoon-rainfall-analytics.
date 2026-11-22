@@ -18,6 +18,7 @@ Key Insights & Stakeholder Impact
 ○	Crop Insurance & Advisory: Use district-level departure thresholds to accelerate crop insurance support and issue timely sowing/irrigation advisories to farmers.
 <img width="1640" height="716" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/313e25c7-4073-430f-bede-5b18b371a505" />
 <img width="1640" height="716" alt="Dashboard 1" src="https://github.com/user-attachments/assets/db2142f3-2401-4b20-bffe-f8605f01af03" />
-<img width="1640" height="716" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/3b1317fd-2cd1-4507-b511-aa341a15f89f" />
+<img width="1616" height="693" alt="Screenshot 2026-11-22 153620" src="https://github.com/user-attachments/assets/aeb43a33-e6dd-4f6b-9dfd-d8c5b16be689" />
+
 
 
